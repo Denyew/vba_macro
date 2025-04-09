@@ -4,7 +4,7 @@ Macros created under own initiative to streamline repetitve data manipulation/re
 
 **GLDI Summarizer**
 
--[View gldi_summary.vba](gldi_summary.vba)
+(gldi_summary.vba)
 
 This macro helps to manipulate the data file from Oracle and creates a separate Pivot Table for a quick Profit and Loss statement view, based on account code and cost center.
 
