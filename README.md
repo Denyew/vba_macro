@@ -15,6 +15,7 @@ Current process only requires selecting the downloaded file using a File Dialog,
 Process time - 4 mins -> 15 seconds
 
 **Sales Report Generator**
+
 [Sales Report](sales_report.vba)
 
 This macro removes the need to manually delimit sales data and append it in another file, plus it helps to pivot data from a .pbix output, which is this macro [.pbix_output](pbi_output.vba)
@@ -24,6 +25,7 @@ Time savings come from not needing to manually manipulate data and removes waiti
 Process time - 10 minutes -> 3 minutes
 
 **Journal Processor**
+
 [Journals](journal.vba)
 
 This macro automatically populates data into the Oracle Journal template based on the nature of the journal. However, it's all based on the same source so manipulation is done via the macro
